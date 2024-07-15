@@ -3,7 +3,7 @@
 ###
 
 <div align="right">
-  <img height="200" src="https://i.ibb.co/85dDKm6/co-pia-de-wp6476461.png" />
+  <img height="400" src="https://i.ibb.co/85dDKm6/co-pia-de-wp6476461.png" />
 </div>
 
 ###
