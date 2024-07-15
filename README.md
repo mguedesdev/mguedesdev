@@ -61,6 +61,27 @@
 
 ###
 
-<p align="left">Sou desenvolvedor front-end, com mais de 8 anos de experiência em programação.<br>Minha jornada na área começou com um profundo interesse em entender como as coisas funcionam por trás das telas, o que me levou a mergulhar no mundo da programação.<br><br>🎓 Formação<br><br>Formado em Ciência da Computação, adquiri uma base sólida em princípios de programação e resolução de problemas, o que tem sido fundamental para minha carreira.<br><br>🧑‍🏫 Experiência como Professor<br><br>Compartilhar conhecimento sempre foi uma das minhas paixões. Durante dois anos, atuei como professor de programação de jogos, ensinando Unity e Unreal Engine para pessoas interessadas em criar seus próprios jogos. Além disso, também fui professor de desenvolvimento web por dois anos, ajudando muitos estudantes a iniciar suas carreiras como desenvolvedores web.<br><br>📈 Atualmente<br><br>Atualmente, trabalho como desenvolvedor Front-End, utilizando principalmente React e Next.js. Diariamente lido com manutenção, integração e criação de novas funcionalidades.</p>
-
+<p align="left">
+  Sou desenvolvedor front-end, com mais de 8 anos de experiência em programação.
+  <br>
+  Minha jornada na área começou com um profundo interesse em entender como as coisas funcionam por trás das telas, o que me levou a mergulhar no mundo da programação.
+  <br><br>
+  🎓 Formação
+  <br><br>
+  Formado em Ciência da Computação, adquiri uma base sólida em princípios de programação e resolução de problemas, o que tem sido fundamental para minha carreira.
+  <br><br>
+  🧑‍🏫 Experiência como Professor
+  <br><br>
+  Compartilhar conhecimento sempre foi uma das minhas paixões.
+  <br>
+  Durante dois anos, atuei como professor de programação de jogos, ensinando Unity e Unreal Engine para pessoas interessadas em criar seus próprios jogos.
+  <br>
+  Além disso, também fui professor de desenvolvimento web por dois anos, ajudando muitos estudantes a iniciar suas carreiras como desenvolvedores web.
+  <br><br>
+  📈 Atualmente
+  <br><br>
+  Atualmente, trabalho como desenvolvedor Front-End, utilizando principalmente React e Next.js.
+  <br>
+  Diariamente lido com manutenção, integração e criação de novas funcionalidades.
+</p>
 ###
